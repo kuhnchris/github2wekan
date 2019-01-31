@@ -1,4 +1,4 @@
-#Github 2 Wekan
+# Github 2 Wekan
 This tool allows you to write GraphQL queries and 
 import the result into Wekan. May require a bit of 
 rewrite to be useful for generic use-cases, but 
